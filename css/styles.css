@@ -1,5 +1,10 @@
+.format {
+  background-color: antiquewhite;
+}
+
 .center-image {
-  width: 300px;
-  height: 200px;
+  margin: auto;
+  width 50%;
+  height: auto;
   display: block;
 }
